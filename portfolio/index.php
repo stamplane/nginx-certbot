@@ -129,7 +129,7 @@
                         <a href="#portfolioModal11" class="portfolio-link" data-toggle="modal">
                             <div class="card">
                                 <div class="face front">
-                                    <img src="img/portfolio1/forum.png" class="img-responsive" alt="">
+                                    <img src="img/portfolio1/forum1.png" class="img-responsive" alt="">
                                     <div class="portfolio-caption">
                                         
                                     </div>
@@ -932,7 +932,7 @@
     <script src="js/bootstrap.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
     <script src="js/classie.js"></script>
     <script src="js/cbpAnimatedHeader.js"></script>
 
