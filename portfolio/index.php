@@ -129,7 +129,7 @@
                         <a href="#portfolioModal11" class="portfolio-link" data-toggle="modal">
                             <div class="card">
                                 <div class="face front">
-                                    <img src="img/portfolio1/forum1.png" class="img-responsive" alt="">
+                                    <img src="img/portfolio1/forum.png" class="img-responsive" alt="">
                                     <div class="portfolio-caption">
                                         
                                     </div>
