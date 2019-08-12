@@ -121,7 +121,26 @@
 
 
             <div class="row">
+                <div class="col-md-3 col-sm-3 portfolio-item">
+                    <div class="flip-container">
+                        <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                            <div class="card">
+                                <div class="face front">
+                                    <img src="img/portfolio1/footprint2.png" class="img-responsive" alt="">
+                                    <div class="portfolio-caption">
+                                        
+                                    </div>
+                                </div>
 
+                                <div class="face back">
+                                    <p class="project-name">Footprint and xTrace</p>
+                                    <p class="project-des">tracking and trace solution for Supplychain</p>
+                                    <p class="project-des">backed by Blockchain</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
 
 
                 <div class="col-md-3 col-sm-3 portfolio-item">
@@ -333,10 +352,39 @@
 
      <!-- Portfolio Modals -->
     <!-- Use the modals below to showcase details about your portfolio projects! -->
-
+  <!-- Portfolio Modal 1 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Footprint and xTrace</h2>
+                            <p class="item-intro text-muted">React, Redux, Express, MQTT</p>
+                            <p>Supply chain tracking and trace solution for Cisco Optical modules</p>
+                            <p>(Project is deployed on AWS using Docker and Rancher)</p>
+                            <ul class="list-inline social-buttons">
+                                <li>Demo:</li>
+                                <li><a target="_blank" href="https://footprint.verachain.io"><i class="fa fa-photo fa-3x"></i></a></li>
+                            </ul>
+                            
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
       <!-- Portfolio Modal 11 -->
-      <div class="portfolio-modal modal fade" id="portfolioModal11" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="portfolioModal11" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -355,9 +403,7 @@
                             <p>(Project is deployed using Nginx.)</p>
                             <ul class="list-inline social-buttons">
                                 <li>View the code here: </li>
-                                <li><a target="_blank" href="https://github.com/RuiWangGit/link"><i class="fa fa-github fa-3x"></i></a></li>
-                                <li>Demo: </li>
-                                <li><a target="_blank" href="http://www.ruiwangbook.com:94/#/forum"><i class="fa fa-photo fa-3x"></i></a></li>
+                                <li><a target="_blank" href="https://github.com/muz3/link"><i class="fa fa-github fa-3x"></i></a></li>
                             </ul>
                             
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
@@ -386,9 +432,7 @@
                             <p>(Project is deployed using Nginx + CentOS.)</p>
                             <ul class="list-inline social-buttons">
                                 <li>View the code here: </li>
-                                <li><a target="_blank" href="https://github.com/RuiWangGit/User_Dashboard"><i class="fa fa-github fa-3x"></i></a></li>
-                                <li>Demo:</li>
-                                <li><a target="_blank" href="http://www.ruiwangbook.com:81"><i class="fa fa-photo fa-3x"></i></a></li>
+                                <li><a target="_blank" href="https://github.com/muz3/User_Dashboard"><i class="fa fa-github fa-3x"></i></a></li>
                             </ul>
                             <!-- <iframe src="http://www.ruiwangbook.com:81"></iframe> -->
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
@@ -418,9 +462,7 @@
                             <p>(Project is deployed using Nginx.)</p>
                             <ul class="list-inline social-buttons">
                                 <li>View the code here: </li>
-                                <li><a target="_blank" href="https://github.com/RuiWangGit/MyChat"><i class="fa fa-github fa-3x"></i></a></li>
-                                <li>Demo: </li>
-                                <li><a target="_blank" href="http://www.ruiwangbook.com:3000"><i class="fa fa-photo fa-3x"></i></a></li>
+                                <li><a target="_blank" href="https://github.com/muz3/MyChat"><i class="fa fa-github fa-3x"></i></a></li>
                             </ul>
                             <!-- <iframe src="http://www.ruiwangbook.com:3000"></iframe> -->
                             
@@ -452,9 +494,7 @@
                             <p>(Project is deployed using AWS.)</p>
                             <ul class="list-inline social-buttons">
                                 <li>View the code here: </li>
-                                <li><a target="_blank" href="https://github.com/RuiWangGit/Note_App"><i class="fa fa-github fa-3x"></i></a></li>
-                                <li>Demo: </li>
-                                <li><a target="_blank" href="http://www.ruiwangbook.com:85"><i class="fa fa-photo fa-3x"></i></a></li>
+                                <li><a target="_blank" href="https://github.com/muz3/Note_App"><i class="fa fa-github fa-3x"></i></a></li>
                             </ul>
                             <!-- <iframe src="http://www.ruiwangbook.com:85"></iframe> -->
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
@@ -485,9 +525,7 @@
                             <p>(Project is deployed on DigitalOcean cloud server.)</p>
                             <ul class="list-inline social-buttons">
                                 <li>View the code here: </li>
-                                <li><a target="_blank" href="https://github.com/RuiWangGit/JS_Balls"><i class="fa fa-github fa-3x"></i></a></li>
-                                <li>Demo: </li>
-                                <li><a target="_blank" href="http://www.ruiwangbook.com:84"><i class="fa fa-photo fa-3x"></i></a></li>
+                                <li><a target="_blank" href="https://github.com/muz3/JS_Balls"><i class="fa fa-github fa-3x"></i></a></li>
                             </ul>
                             <!-- <iframe src="http://www.ruiwangbook.com:84"></iframe> -->
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
@@ -541,7 +579,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; ruiwangbook.com 2015
+                        Copyright &copy; stamplane.com 2015
                     </div>
                 </div>
             </div>
