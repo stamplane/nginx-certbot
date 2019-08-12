@@ -154,13 +154,31 @@
                                 <div class="face back">
                                     <p class="project-name">Blockchain dev portal</p>
                                     <p class="project-des">online developer portal</p>
-                                    <p class="project-des">React, Reduct, Express, Mongo and Blockchain</p>
+                                    <p class="project-des">React, Redux, Express, Mongo and Blockchain</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                 </div>
 
+                <div class="col-md-3 col-sm-3 portfolio-item">
+                    <div class="flip-container">
+                        <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                            <div class="card">
+                                <div class="face front">
+                                    <img src="img/portfolio1/keevo.png" class="img-responsive" alt="">
+                                    <div class="portfolio-caption">
+                                    </div>
+                                </div>
+                                <div class="face back">
+                                    <p class="project-name">Keevo Wallet</p>
+                                    <p class="project-des">hardware wallet to store coins</p>
+                                    <p class="project-des">built with Electron</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
 
                 <div class="col-md-3 col-sm-3 portfolio-item">
                     <div class="flip-container">
@@ -187,22 +205,16 @@
                 <div class="col-md-3 col-sm-3 portfolio-item">
                     <div class="flip-container">
                         <a href="#portfolioModal12" class="portfolio-link" data-toggle="modal">
-                        <div class="card">
-                                
-                                 <div class="face front"> 
-
-                                        <img src="img/portfolio1/user_dashboard_screenshot.png" class="img-responsive" alt="">
-                                        <!-- <p class="text-center">User Dashboard </p>     -->
-                                        
+                        <div class="card">                                
+                                <div class="face front"> 
+                                    <img src="img/portfolio1/user_dashboard_screenshot.png" class="img-responsive" alt="">
+                                    <!-- <p class="text-center">User Dashboard </p>     -->                                        
                                 </div>
-
                                 <div class="face back">
                                      <p class="project-name">User Dashboard</h4>
                                      <p class="project-des">PHP</p>
                                      <p class="project-des">LAMP Stack</p>
-
-                                </div>
-                            
+                                </div>                            
                         </div>
                         </a>
                     </div>
@@ -423,6 +435,38 @@
                                 <li>Demo:</li>
                                 <li><a target="_blank" href="https://sc.demo3.verachain.io/"><i class="fa fa-photo fa-3x"></i></a></li>
                                 <!-- https://www.cisco.com/c/en/us/solutions/digital-transformation/blockchain/index.html -->
+                            </ul>
+                            
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Portfolio Modal 4 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Keevo Wallet</h2>
+                            <p class="item-intro text-muted">Electron App</p>
+                            <p>Hardware Wallet used to store coins like bitcoin, ether etc.. securly</p>
+                            <p>Electron desktop app</p>
+                            <ul class="list-inline social-buttons">
+                                <li>Demo:</li>
+                                <li><a target="_blank" href="https://keevowallet.com/"><i class="fa fa-photo fa-3x"></i></a></li>
                             </ul>
                             
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>

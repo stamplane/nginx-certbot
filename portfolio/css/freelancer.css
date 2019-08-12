@@ -491,14 +491,14 @@ footer .footer-below {
     /*width: 200px;*/
     /*width:262.5px;*/
     width: 250px;
-    height: 200px;
+    height: 150px;
     border-radius: 5px;
 
 }
 
 .flip-container img{
     width:250px;
-    height:200px;
+    height:150px;
 }
 
 
