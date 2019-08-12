@@ -149,7 +149,7 @@
 
                 <div class="col-md-3 col-sm-3 portfolio-item">
                     <div class="flip-container">
-                        <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                        <a href="#portfolioModal12" class="portfolio-link" data-toggle="modal">
                         <div class="card">
                                 
                                  <div class="face front"> 
@@ -174,7 +174,7 @@
 
                 <div class="col-md-3 col-sm-3 portfolio-item">
                     <div class="flip-container">
-                        <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                        <a href="#portfolioModal13" class="portfolio-link" data-toggle="modal">
                             <div class="card">
                                 <div class="face front">
                                     <img src="img/portfolio1/mychat_screenshot.png" class="img-responsive" alt="">
@@ -195,7 +195,7 @@
 
                 <div class="col-md-3 col-sm-3 portfolio-item">
                     <div class="flip-container">
-                        <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                        <a href="#portfolioModal14" class="portfolio-link" data-toggle="modal">
                             <div class="card">
                                 <div class="face front">
                                      <img src="img/portfolio1/notes_app_screenshot.png" class="img-responsive" alt="">
@@ -220,7 +220,7 @@
 
                 <div class="col-md-3 col-sm-3 portfolio-item">
                     <div class="flip-container">
-                        <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                        <a href="#portfolioModal15" class="portfolio-link" data-toggle="modal">
                             <div class="card">
                                 <div class="face front">
                                       <img src="img/portfolio1/js_circle_screenshot.png" class="img-responsive" alt="">
@@ -242,143 +242,6 @@
                         
                     </div>
                 </div>
-
-
-                <div class="col-md-3 col-sm-3 portfolio-item">
-                    <div class="flip-container">
-                        <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                            <div class="card">
-                                <div class="face front">
-                                      <img src="img/portfolio1/ubermile_screenshot.png" class="img-responsive" alt="">
-                                    <div class="portfolio-caption">
-                                        
-                                    </div>
-
-                                </div>
-
-                                <div class="face back">
-                                     <p class="project-name">UberMile</p>
-                                     <p class="project-des">Javascript</p>
-                                     <p class="project-des">MEAN Stack</p>
-                                </div>
-
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-
-
-                <div class="col-md-3 col-sm-3 portfolio-item">
-                    <div class="flip-container">
-                        <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                            <div class="card">
-                                <div class="face front">
-                                    <img src="img/portfolio1/ecommerce_screenshot.png" class="img-responsive" alt="">
-                                    <div class="portfolio-caption">
-                                        
-                                    </div>
-                                </div>
-
-                                <div class="face back">
-                                     <p class="project-name">E_Commerce</p> 
-                                     <p class="project-des">PHP</p>
-                                     <p class="project-des">LAMP Stack</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-
-                <div class="col-md-3 col-sm-3 portfolio-item">
-                    <div class="flip-container">
-                        <a href="#portfolioModal7" class="portfolio-link" data-toggle="modal">
-                            <div class="card">
-                                <div class="face front">
-                                    <img src="img/portfolio1/calculator.png" class="img-responsive" alt="">
-                                    <div class="portfolio-caption">
-                                        <!-- <p>Calculator</p> -->
-                                    </div>
-                                </div>
-
-                                <div class="face back">
-                                    <p class="project-name">Calculator</p>
-                                    <p class="project-des">Javascript</p>
-                                    <p class="project-des">Tool</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-
-                 <div class="col-md-3 col-sm-3 portfolio-item">
-                    <div class="flip-container">
-                        <a href="#portfolioModal8" class="portfolio-link" data-toggle="modal">
-                            <div class="card">
-                                <div class="face front">
-                                    <img src="img/portfolio1/street_fighter.png" class="img-responsive" alt="">
-                                    <div class="portfolio-caption">
-                                        
-                                    </div>
-                                </div>
-
-                                <div class="face back">
-                                    <p class="project-name">Street Fighter</p>
-                                    <p class="project-des">Javascript</p>
-                                    <p class="project-des">Game</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-
-                <div class="col-md-3 col-sm-3 portfolio-item">
-                    <div class="flip-container">
-                        <a href="#portfolioModal9" class="portfolio-link" data-toggle="modal">
-                            <div class="card">
-                                <div class="face front">
-                                    <img src="img/portfolio1/pagination.png" class="img-responsive" alt="">
-                                    <div class="portfolio-caption">
-                                        
-                                    </div>
-                                </div>
-
-                                <div class="face back">
-                                    <p class="project-name">Pagination</p>
-                                    <p class="project-des">PHP</p>
-                                    <p class="project-des">LAMP</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-
-                 <div class="col-md-3 col-sm-3 portfolio-item">
-                    <div class="flip-container">
-                        <a href="#portfolioModal10" class="portfolio-link" data-toggle="modal">
-                            <div class="card">
-                                <div class="face front">
-                                    <img src="img/portfolio1/blog.png" class="img-responsive" alt="">
-                                    <div class="portfolio-caption">
-                                        
-                                    </div>
-                                </div>
-
-                                <div class="face back">
-                                    <p class="project-name">Blog</p>
-                                    <p class="project-des">PHP</p>
-                                    <p class="project-des">Yii 1.1.16</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-
             </div>
         </div>
 
@@ -397,7 +260,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p>I am a self-driven Web Application Developer currently holding a Master degree of Science in Engineering, Telecommunication and Networking. Confucius's quote: "Choose a job you love, and you will never have to work a day in your life". I am fortunate to have found my passion in coding and would like to apply my skills and leverage my proficiency in multiple programming lanuages and framworks to build great products from my heart.    </p>
+                    <p>I am a self-driven Software Developer currently holding a Master degree of Science in Engineering, Telecommunication and Networking. Confucius's quote: "Choose a job you love, and you will never have to work a day in your life". I am fortunate to have found my passion in coding and would like to apply my skills and leverage my proficiency in multiple programming lanuages and framworks to build great products from my heart.    </p>
                 </div>
                 <!-- <div class="col-lg-4">
                     <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
@@ -468,15 +331,44 @@
     </section>
 
 
-
-
-
-
      <!-- Portfolio Modals -->
     <!-- Use the modals below to showcase details about your portfolio projects! -->
 
-    <!-- Portfolio Modal 1 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+
+      <!-- Portfolio Modal 11 -->
+      <div class="portfolio-modal modal fade" id="portfolioModal11" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Forum</h2>
+                            <p class="item-intro text-muted">Angular, Express, Node, MongoDB, HTML, CSS, Bootstrap </p>
+                            <p>Forum, a single page application built by MEAN stack as part of LinkNow web project for LibertyinNorthKorean </p>
+                            <p>(Project is deployed using Nginx.)</p>
+                            <ul class="list-inline social-buttons">
+                                <li>View the code here: </li>
+                                <li><a target="_blank" href="https://github.com/RuiWangGit/link"><i class="fa fa-github fa-3x"></i></a></li>
+                                <li>Demo: </li>
+                                <li><a target="_blank" href="http://www.ruiwangbook.com:94/#/forum"><i class="fa fa-photo fa-3x"></i></a></li>
+                            </ul>
+                            
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Portfolio Modal 12 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal12" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -507,8 +399,8 @@
         </div>
     </div>
 
-     <!-- Portfolio Modal 2 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+     <!-- Portfolio Modal 13 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal13" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -540,16 +432,8 @@
         </div>
     </div>
 
-
-  
-
-
-    
-
-   
-
-    <!-- Portfolio Modal 3 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+    <!-- Portfolio Modal 14 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal14" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -582,8 +466,8 @@
     </div>
 
 
-    <!-- Portfolio Modal 4 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+    <!-- Portfolio Modal 15 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal15" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -614,258 +498,7 @@
         </div>
     </div>
 
-   
-      <!-- Portfolio Modal 5 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>UberMile</h2>
-                            <p class="item-intro text-muted">Uber API, node.js, Angular.js, express.js, mongoDB, jquery, html, css, bootstrap</p>
-                            <p>This is a single page Uber Loyalty application.</p>
-                            <p>(Project is deployed using Heroku.)</p>
-                            <ul class="list-inline social-buttons">
-                                <li>View the code here: </li>
-                                <li><a target="_blank" href="https://github.com/RuiWangGit/UberMile"><i class="fa fa-github fa-3x"></i></a></li>
-                                <li>Demo: </li>
-                                <li><a target="_blank" href="https://ubermile-heroku-app.herokuapp.com"><i class="fa fa-photo fa-3x"></i></a></li>
-                            </ul>
-                            <!-- <iframe src="http://www.ruiwangbook.com:8001/"></iframe> -->
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-   
-
-    <!-- Portfolio Modal 6 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>E_Commerce</h2>
-                            <p class="item-intro text-muted">PHP, codeigniter, jquery, mysql, html, css, bootstrap</p>
-                            <p>E_Commerce online store which sells boots. All information is stored in mysql database. </p>
-                            <p>(Project is deployed using Nginx.)</p>
-                            <ul class="list-inline social-buttons">
-                                <li>View the code here: </li>
-                                <li><a target="_blank" href="https://github.com/RuiWangGit/E_Commerce"><i class="fa fa-github fa-3x"></i></a></li>
-                                <li>Demo: </li>
-                                <li><a target="_blank" href="http://www.ruiwangbook.com:82/"><i class="fa fa-photo fa-3x"></i></a></li>
-                            </ul>
-                            <!-- <iframe src="http://www.ruiwangbook.com:82/"></iframe> -->
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-
-    <!-- Portfolio Modal 7 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Calculator</h2>
-                            <p class="item-intro text-muted">Javascript</p>
-                            <p>This is a basic Calculator with addition, subtraction, multiplication, division and brackets support. Built from Scratch. The take away point is to solve the algorithm for Infix order Postfix order. </p>
-                            <p>(Project is deployed using Nginx.)</p>
-                            <ul class="list-inline social-buttons">
-                                <li>View the code here: </li>
-                                <li><a target="_blank" href="https://github.com/RuiWangGit/Calculator"><i class="fa fa-github fa-3x"></i></a></li>
-                                <li>Demo: </li>
-                                <li><a target="_blank" href="http://www.ruiwangbook.com:86/"><i class="fa fa-photo fa-3x"></i></a></li>
-                            </ul>
-                            
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-
-    <!-- Portfolio Modal 8 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Street Fighter</h2>
-                            <p class="item-intro text-muted">Javascript</p>
-                            <p>Built and implemented features such as Jump, Kneel, Walk, Punch, Beam </p>
-                            <p>(Project is deployed using Nginx.)</p>
-                            <ul class="list-inline social-buttons">
-                                <li>View the code here: </li>
-                                <li><a target="_blank" href="https://github.com/RuiWangGit/Street_Fighter"><i class="fa fa-github fa-3x"></i></a></li>
-                                <li>Demo: </li>
-                                <li><a target="_blank" href="http://www.ruiwangbook.com:89/"><i class="fa fa-photo fa-3x"></i></a></li>
-                            </ul>
-                            
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-      <!-- Portfolio Modal 9 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal9" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Pagination</h2>
-                            <p class="item-intro text-muted">PHP, MySQL, HTML, CSS</p>
-                            <p>Pagination on Excel user data</p>
-                            <p>(Project is deployed using Nginx.)</p>
-                            <ul class="list-inline social-buttons">
-                                <li>View the code here: </li>
-                                <li><a target="_blank" href="https://github.com/RuiWangGit/Pagination"><i class="fa fa-github fa-3x"></i></a></li>
-                                <li>Demo: </li>
-                                <li><a target="_blank" href="http://www.ruiwangbook.com:90/"><i class="fa fa-photo fa-3x"></i></a></li>
-                            </ul>
-                            
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-
-      <!-- Portfolio Modal 10 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal10" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Blog</h2>
-                            <p class="item-intro text-muted">Yii Framework, PHP, MySQL, HTML, CSS</p>
-                            <p>Free Blog service people can write their own story and comment other people's stories.</p>
-                            <p>(Project is deployed using Nginx.)</p>
-                            <ul class="list-inline social-buttons">
-                                <li>View the code here: </li>
-                                <li><a target="_blank" href="https://github.com/RuiWangGit/Blog"><i class="fa fa-github fa-3x"></i></a></li>
-                                <li>Demo: </li>
-                                <li><a target="_blank" href="http://www.ruiwangbook.com:92/"><i class="fa fa-photo fa-3x"></i></a></li>
-                            </ul>
-                            
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-
-
-
-      <!-- Portfolio Modal 11 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal11" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Forum</h2>
-                            <p class="item-intro text-muted">Angular, Express, Node, MongoDB, HTML, CSS, Bootstrap </p>
-                            <p>Forum, a single page application built by MEAN stack as part of LinkNow web project for LibertyinNorthKorean </p>
-                            <p>(Project is deployed using Nginx.)</p>
-                            <ul class="list-inline social-buttons">
-                                <li>View the code here: </li>
-                                <li><a target="_blank" href="https://github.com/RuiWangGit/link"><i class="fa fa-github fa-3x"></i></a></li>
-                                <li>Demo: </li>
-                                <li><a target="_blank" href="http://www.ruiwangbook.com:94/#/forum"><i class="fa fa-photo fa-3x"></i></a></li>
-                            </ul>
-                            
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-
-
-
-
-
-
-
-
+ 
     <!-- Footer -->
     <footer class="text-center">
         <div class="footer-above">
