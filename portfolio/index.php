@@ -201,6 +201,25 @@
 
                 <div class="col-md-3 col-sm-3 portfolio-item">
                     <div class="flip-container">
+                        <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                            <div class="card">
+                                <div class="face front">
+                                    <img src="img/portfolio1/travelscout.png" class="img-responsive" alt="">
+                                    <div class="portfolio-caption">
+                                    </div>
+                                </div>
+                                <div class="face back">
+                                    <p class="project-name">TravelScout</p>
+                                    <p class="project-des">road trip planning solution</p>
+                                    <p class="project-des">ios native app</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-3 portfolio-item">
+                    <div class="flip-container">
                         <a href="#portfolioModal11" class="portfolio-link" data-toggle="modal">
                             <div class="card">
                                 <div class="face front">
@@ -526,6 +545,35 @@
         </div>
     </div>
 
+    <!-- Portfolio Modal 1 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>TravelScout</h2>
+                            <p class="item-intro text-muted">backend used Angular and nodejs</p>
+                            <p>Road Trip planning and Itinerary</p>
+                            <ul class="list-inline social-buttons">
+                                <li>Demo:</li>
+                                <li><a target="_blank" href="https://appadvice.com/app/acpmytravelscout/1070083987"><i class="fa fa-photo fa-3x"></i></a></li>
+                            </ul>
+                            
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>    
       <!-- Portfolio Modal 11 -->
     <div class="portfolio-modal modal fade" id="portfolioModal11" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
